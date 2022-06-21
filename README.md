@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://ehgp.github.io/my-work/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development**, **Web3**, **Investments**, **Engineering**
 
 - 📫 How to reach me **ehgp@utexas.edu**
 
