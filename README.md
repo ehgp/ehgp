@@ -56,6 +56,7 @@
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://ehgp.github.io)
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://ehgp.github.io)
 [![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://ehgp.github.io)
+[![nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://ehgp.github.io)
 [![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://ehgp.github.io)
 [![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://ehgp.github.io)
 [![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://ehgp.github.io)
@@ -98,7 +99,7 @@
 ---
 
 ### 🔝 Most used languages
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehgp&theme=github_dark&hide_border=true&hide=css,html,scss&layout=compact" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehgp&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
 
 ---
 
