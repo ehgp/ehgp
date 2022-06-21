@@ -1,7 +1,7 @@
 <!-- [![itsrakesh.co](https://user-images.githubusercontent.com/70439799/150669911-f4770983-6987-48b8-ad53-a5542231e894.gif)](https://ehgp.github.io) -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm EHGP</h1>
-<h3 align="center">🌐 Web Developer ✍️ Data Scientist ✈️ Cybersecurity</h3>
+<h3 align="center">🌐 Web Developer 🧑‍💻 Data Scientist 🧩 Cybersecurity</h3>
 
 - 🌱 I’m currently learning **Web3**
 
@@ -98,7 +98,7 @@
 ---
 
 ### 🔝 Most used languages
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehgp&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehgp&theme=github_dark&hide_border=true&hide=css,html,scss&layout=compact" />
 
 ---
 
@@ -109,3 +109,7 @@
 </details>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ehgp.ehgp)
+<!---
+ehgp/ehgp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
