@@ -50,6 +50,7 @@
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://ehgp.github.io)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://ehgp.github.io)
 [![plsql](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://ehgp.github.io)
+[![solidity](https://img.shields.io/badge/solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)](https://ehgp.github.io)
 
 ### 🧩 Frameworks/Libraries
 
@@ -62,6 +63,9 @@
 [![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://ehgp.github.io)
 [![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://ehgp.github.io)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://ehgp.github.io)
+[![trino](https://img.shields.io/badge/trino-dd00a1?style=for-the-badge&logo=trino&logoColor=white)](https://ehgp.github.io)
+[![spark](https://img.shields.io/badge/spark-F55B14?style=for-the-badge&logo=apache&logoColor=white)](https://ehgp.github.io)
+
 
 ### 🗃️ Databases
 
@@ -73,6 +77,7 @@
 
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://ehgp.github.io)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://ehgp.github.io)
+[![gitlab](https://img.shields.io/badge/gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=white)](https://ehgp.github.io)
 [![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://ehgp.github.io)
 [![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://ehgp.github.io)
 [![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://ehgp.github.io)
@@ -82,6 +87,15 @@
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://ehgp.github.io)
 [![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://ehgp.github.io)
 [![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://ehgp.github.io)
+[![snowflake](https://img.shields.io/badge/snowflake-0693e3?style=for-the-badge&logo=snowflake&logoColor=white)](https://ehgp.github.io)
+[![ngrok](https://img.shields.io/badge/ngrok-007aff?style=for-the-badge&logo=ngrok&logoColor=white)](https://ehgp.github.io)
+[![databricks](https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://ehgp.github.io)
+[![tableau](https://img.shields.io/badge/tableau-ffffff?style=for-the-badge&logo=tableau&logoColor=black)](https://ehgp.github.io)
+
+### ☁ Cloud
+
+[![aws](https://img.shields.io/badge/aws-ec7211?style=for-the-badge&logo=aws&logoColor=black)](https://ehgp.github.io)
+[![gcp](https://img.shields.io/badge/gcp-2962ff?style=for-the-badge&logo=google&logoColor=white)](https://ehgp.github.io)
 
 ### 🧠 IDEs/Text Editors I use
 
