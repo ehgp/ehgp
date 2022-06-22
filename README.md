@@ -120,7 +120,7 @@
 <details>
   <summary>🧑‍🔬 This week I did</summary>
 
-  [![ehgp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ehgp&theme=github_dark&hide_border=true)](https://wakatime.com/@6839264a-8904-40b3-847c-50bd0721755f)
+  [![ehgp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ehgp&theme=github_dark&hide_border=true)](https://wakatime.com/@ehgp)
 </details>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ehgp.ehgp)
